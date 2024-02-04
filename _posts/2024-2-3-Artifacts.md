@@ -22,4 +22,4 @@ Creation of a resume using basic HTMl and no CSS
 
 [Artifact 2:](https://yawnbo.github.io/me/A2/index.html){:target="_blank"}  
 Chessboard using basic HTML/CSS
-<img src="https://yawnbo.github.io/me/A2/img/gold-pawn.png" alt="drawing" width="200" alt="pawn"/>
+<img src="https://yawnbo.github.io/me/A2/img/gold-pawn.png" alt="drawing" width="200" alt="pawn">

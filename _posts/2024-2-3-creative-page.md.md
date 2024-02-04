@@ -5,7 +5,11 @@ subtitle:
 author: yawnbo
 categories: midterm
 banner:
-  image: https://i9.ytimg.com/vi_webp/p6SkyIsvbv0/mq2.webp?sqp=CJyj_K0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBoUZ-KUZeLc2NQJnGcCQ07oudu8A
+  video: https://vjs.zencdn.net/v/oceans.mp4
+  loop: true
+  volume: 0.8
+  start_at: 8.5
+  image: https://bit.ly/3xTmdUP
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -25,4 +29,4 @@ This website MIGHT be a little off what you want us to do for the midterm, so pl
 
 [youtube channel because I dont know what other link to put](https://www.youtube.com/channel/UCArQYc76NyVWYQSNDORLVfg)
 
-![](https://youtu.be/QAOgjaTLAwo)
+![](https://www.youtube.com/watch?v=QAOgjaTLAwo)
