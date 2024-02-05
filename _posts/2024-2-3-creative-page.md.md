@@ -5,7 +5,7 @@ subtitle:
 author: yawnbo
 categories: midterm
 banner:
-  image: /site/assets/images/snowboarding.jpeg
+  image: "/assets/images/snowboarding.jpeg"
   opacity: 0.618
   background: "#000"
   height: "100vh"
