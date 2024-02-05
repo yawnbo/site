@@ -5,7 +5,7 @@ subtitle:
 author: yawnbo
 categories: midterm
 banner:
-  image: https://i9.ytimg.com/vi_webp/p6SkyIsvbv0/mq2.webp?sqp=CJyj_K0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBoUZ-KUZeLc2NQJnGcCQ07oudu8A
+  image: https://i9.ytimg.com/vi_webp/p6SkyIsvbv0/mq2.webp?sqp=CIjYgK4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBHcpGHhbZkE4NuyAMXgqVzxXbFFw
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -24,5 +24,6 @@ One thing that I love to do during the winter-time is snowboarding, every year I
 This website MIGHT be a little off what you want us to do for the midterm, so please let me know if you want it done using the default template instead of this. That being said the image on this page is located behind the title, link and video are below. :)
 
 [youtube channel because I dont know what other link to put](https://www.youtube.com/channel/UCArQYc76NyVWYQSNDORLVfg)
-
-![](https://youtu.be/QAOgjaTLAwo)
+[![]
+(https://img.youtube.com/vi/QAOgjaTLAwo/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=QAOgjaTLAwo)
