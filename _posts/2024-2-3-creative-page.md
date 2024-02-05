@@ -24,4 +24,4 @@ One thing that I love to do during the winter-time is snowboarding, every year I
 This website MIGHT be a little off what you want us to do for the midterm, so please let me know if you want it done using the default template instead of this. That being said the image on this page is located behind the title, link and video are below. :)
 
 [youtube channel because I dont know what other link to put](https://www.youtube.com/channel/UCArQYc76NyVWYQSNDORLVfg)
-[![](https://www.youtube.com/watch?v=QAOgjaTLAwo)
+![](https://www.youtube.com/watch?v=QAOgjaTLAwo)
