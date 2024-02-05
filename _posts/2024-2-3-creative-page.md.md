@@ -5,7 +5,7 @@ subtitle:
 author: yawnbo
 categories: midterm
 banner:
-  image: https://i9.ytimg.com/vi_webp/p6SkyIsvbv0/mq2.webp?sqp=CIjYgK4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBHcpGHhbZkE4NuyAMXgqVzxXbFFw
+  image: https://www.gstatic.com/youtube/img/promos/growth/f4ccf8a2497d0f4c63e1b458afdf0af041b7b5d34a0cad7f5e99809aac2e6d84_122x56.webp
   opacity: 0.618
   background: "#000"
   height: "100vh"
