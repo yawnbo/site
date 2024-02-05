@@ -5,7 +5,7 @@ subtitle:
 author: yawnbo
 categories: midterm
 banner:
-  image: https://www.gstatic.com/youtube/img/promos/growth/f4ccf8a2497d0f4c63e1b458afdf0af041b7b5d34a0cad7f5e99809aac2e6d84_122x56.webp
+  image: /site/assets/images/snowboarding.jpeg
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -24,6 +24,4 @@ One thing that I love to do during the winter-time is snowboarding, every year I
 This website MIGHT be a little off what you want us to do for the midterm, so please let me know if you want it done using the default template instead of this. That being said the image on this page is located behind the title, link and video are below. :)
 
 [youtube channel because I dont know what other link to put](https://www.youtube.com/channel/UCArQYc76NyVWYQSNDORLVfg)
-[![]
-(https://img.youtube.com/vi/QAOgjaTLAwo/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=QAOgjaTLAwo)
+[![](https://www.youtube.com/watch?v=QAOgjaTLAwo)
