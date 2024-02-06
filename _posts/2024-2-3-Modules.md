@@ -18,8 +18,8 @@ sidebar: []
 ---
 
 Module list<br><br>
-    [Module 1](https://yawnbo.github.io/me/01/index.html)  
-    [Module 2](https://yawnbo.github.io/me/M02/index.html)  
-    [Module 3](https://yawnbo.github.io/me/M03/index.html)  
-    [Module 4](https://yawnbo.github.io/me/M04/index.html)  
-    [Module 5](https://yawnbo.github.io/me/M05/index.html)  
+    <a href="https://yawnbo.github.io/me/01/index.html" target="_blank">Module 1</a><br>
+    <a href="https://yawnbo.github.io/me/M02/index.html" target="_blank">Module 2</a><br>
+    <a href="https://yawnbo.github.io/me/M03/index.html" target="_blank">Module 3</a><br>
+    <a href="https://yawnbo.github.io/me/M04/index.html" target="_blank">Module 4</a><br>
+    <a href="https://yawnbo.github.io/me/M05/index.html" target="_blank">Module 5</a>
