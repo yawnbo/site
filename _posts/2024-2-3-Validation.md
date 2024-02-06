@@ -16,13 +16,12 @@ tags:
 top: 1
 sidebar: []
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Archive</title>
-    <meta http-equiv="refresh" content="3; URL=https://yawnbo.github.io/site/midterm/2024/02/03/Validation.html" >
-</head>
-    <body>
-        <h1>Redirecting...</h1>
-    </body>
-</html>
+
+<h2>Validation</h2>
+<p>
+    This website is really weird when dealing with validation, alot of the errors output are just info errors that are caused by how liquid and ruby handle html, and others are really weird and obscure ones that don't really match up with the code... for example
+<p>
+
+<p>
+    insert example pic here
+<p>
