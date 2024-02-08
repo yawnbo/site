@@ -28,6 +28,14 @@ sidebar: []
   This code shows up with the error "Element div not allowed as child of element span in this context. (Suppressing further errors from this subtree.)" The problem is that I can't change chage the div to a span without the list breaking, and I can't change the outer span that contains the above code because it is in a label element itself. If you have a suggestion I will gladly implement it.
 </p>
 
+<h4>
+  Note I have no way to fix how liquid handles html so "info" errors will be shown on all pages, along with the above mentioned div element, pictures will include anything below these.
+</h4>
+
 <h3>Home validation</h3>
+
+<img src="/assets/images/validation/home.png" alt="home validation" height="400">
+
 <p>
   
+</p>

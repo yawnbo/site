@@ -1,6 +1,11 @@
 @charset "utf-8";
 
 // Define defaults for each variable.
+.post-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
 
 $base-font-family: Helvetica Neue, Helvetica, Arial, sans-serif,!default;
 $base-font-size: 14px !default;
