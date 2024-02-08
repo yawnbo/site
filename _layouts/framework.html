@@ -8,7 +8,7 @@ layout: default
      {{ content }}
 
   </section>
-  <section class="sidebar" style="margin-left: 15px;">
+  <div class="sidebar" style="margin-left: 15px;">
     <!-- Get sidebar items -->
     {%- if page.sidebar -%}
       {%- assign sidebar = page.sidebar -%}
@@ -31,5 +31,5 @@ layout: default
       {%- include {{ file }} %}
 
     {%- endfor -%}
-  </section>
+  </div>
 </div>
