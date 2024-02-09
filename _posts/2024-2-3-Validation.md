@@ -5,7 +5,6 @@ subtitle:
 author: yawnbo
 categories: midterm
 banner:
-  image:
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -36,6 +35,12 @@ sidebar: []
 
 <img src="/assets/images/validation/home.png" alt="home validation" height="400">
 
+<h3>About me validation</h3>
+
 <p>
-  
+  I also have an awesome excuse for this one :D This one has the errors "Section lacks heading. Consider using h2-h6 elements" because the website loads the page with a "post" framework and I think it want's headers 
 </p>
+
+<img src="/assets/images/validation/about.png" alt="about me validation" height="400">
+
+
