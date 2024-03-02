@@ -1,7 +1,7 @@
 // Init method on "document" that waits for DOM to parse and load before executing funtion code.
 document.addEventListener('DOMContentLoaded', function () {
     
-    // links to form to myForm div and sets to const so nothing can change it.
+    // links form to myForm div and sets to const so nothing can change it.
     const form = document.getElementById('myForm');
 
     // links messageDiv to display message if user doesnt fill out fields >:(
