@@ -32,34 +32,46 @@ sidebar: []
 </style>
 <h2>Validation</h2>
 <p>
-    This website is really weird when dealing with validation, alot of the errors output are just info errors that are caused by how liquid and ruby handle the provided html, (liquid likes to close everything with a /> so that makes up ~15 errors) and others are really weird to fix because I have no clue how to. For example...
-<p>
-
-  <img src="/assets/images/validation/unclosed_span.png" alt="Unclosed span element" height="400">
-
-<p>
-  This code shows up with the error "Element div not allowed as child of element span in this context. (Suppressing further errors from this subtree.)" The problem is that I can't change chage the div to a span without the list breaking, and I can't change the outer span that contains the above code because it is in a label element itself. If you have a suggestion I will gladly implement it.
-</p>
+    This website is really weird when dealing with validation, alot of the errors output are just info errors that are caused by how liquid and ruby handle the provided html, (liquid likes to close everything with a /> so that makes up ~15 errors)
 
 <h4>
-  Note I have no way to fix how liquid handles html so "info" errors will be shown on all pages, along with the above mentioned div element, pictures will include anything below these.
+  Note I have no way to fix how liquid handles html so "info" errors will be shown on all pages.
 </h4>
 
 <div class="container">
     <div class="column">
         <h2>Column 1</h2>
-        <h3>Home validation</h3>
+        <h3>Home</h3>
 
         <img src="/assets/images/validation/home.png" alt="home validation" height="400">
 
         <h3>About me validation</h3>
 
         <p>
-        This one has the errors "Section lacks heading. Consider using h2-h6 elements" because the website loads the page with a "post" framework and I think it want's headers 
+        All ones past this include errors that say they require headings, even though if you look into the code, they all clearly have headings. Could maybe be due to html validator running through liquid before html loading? Im not sure
         </p>
 
-        <img src="/assets/images/validation/about.png" alt="about me validation" height="400">
+        <img src="/assets/images/validation/about.png" alt="about me html" height="400">
 
+        <h3>Artifact</h3>
+
+        <img src="/assets/images/validation/artifacts.png" alt="artifacts html" height="400">
+
+        <h3>Contact Me</h3>
+
+        <img src="/assets/images/validation/contact.png" alt="contact html" height="400">
+
+        <h3>Coursework</h3>
+
+        <img src="/assets/images/validation/coursework.png" alt="coursework html" height="400">
+
+        <h3>Creative Page</h3>
+
+        <img src="/assets/images/validation/creative_page.png" alt="creative html" height="400">
+
+        <h3>Modules</h3>
+
+        <img src="/assets/images/validation/modules.png" alt="modules html" height="400">
     </div>
     <div class="column">
         <h2>Column 2</h2>
