@@ -77,10 +77,14 @@ sidebar: []
         <h2>CSS</h2>
         <h3>Home</h3>
 
+        <p>
+          The CSS says it has an error because swap isn't a property, which is correct for basic css, but this website uses SCSS which uses server side functions that can be used. Hence the feature of switching the theems from dark to light. 
+        </p>
         <img src="/site/assets/images/validation/homeCSS.png" alt="Home css" height="400">
 
         <h4>All pages use the same exact CSS because everything is built off the main file. I believe the only page that uses any other CSS is this page with the style tags, so here is this page verifying CSS</h4>
 
+        <h3>Extra page</h3>
         <img src="/site/assets/images/validation/validationCSS.png" alt="Validation css" height="400">
     </div>
 </div>
