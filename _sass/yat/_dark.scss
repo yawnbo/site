@@ -53,8 +53,7 @@ html[data-theme="dark"]  {
     .site-brand {
       .site-brand-inner {
         &, &:visited {
-          color: #f8f8f8;
-          transition: color 0.1s;
+          transition: #f8f8f8 0.1s;
         }
       }
     }
