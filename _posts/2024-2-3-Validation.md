@@ -81,7 +81,7 @@ sidebar: []
 
         <h4>All pages use the same exact CSS because everything is built off the main file. I believe the only page that uses any other CSS is this page with the <style> tags, so here is this page verifying CSS</h4>
 
-        <img src="site/assets/images/validation/validationCSS.png" alt="Validation css" height="400">
+        <img src="/site/assets/images/validation/validationCSS" alt="Validation css" height="400">
     </div>
 </div>
 
