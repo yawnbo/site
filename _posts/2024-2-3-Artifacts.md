@@ -18,8 +18,20 @@ sidebar: []
 ---
 [Artifact 1:](https://yawnbo.github.io/me/a1/index.html){:target="_blank"}  
 Creation of a resume using basic HTMl and no CSS  
-![spongebob](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61Y18wJ9pFL.jpg)
+<img src="/assets/images/artifacts/spongebob.jpg" width="200" alt="Spongebob">
 
 [Artifact 2:](https://yawnbo.github.io/me/A2/index.html){:target="_blank"}  
 Chessboard using basic HTML/CSS
-<img src="https://yawnbo.github.io/me/A2/img/gold-pawn.png" alt="drawing" width="200" alt="pawn">
+<img src="https://yawnbo.github.io/me/A2/img/gold-pawn.png"  width="200" alt="pawn">
+
+[Artifact 3:](https://yawnbo.github.io/me/A3/index.html){:target="_blank"}  
+Printing a rhombus based on paramaters given by user using javascript
+<img src="/assets/images/artifacts/rhombus.png" width="200" alt="rhombus">
+
+[Artifact 4:](https://yawnbo.github.io/me/A4/index.html){:target="_blank"}  
+Form validation made using JS
+<img src="/assets/images/artifacts/formSubmission.png" width="200" alt="form">
+
+[Artifact 5:](https://yawnbo.github.io/me/A5/index.html){:target="_blank"}  
+Chessboard using basic HTML/CSS
+<img src="https://yawnbo.github.io/me/A5/imgs/ralph.jpg"  width="200" alt="ralph">
