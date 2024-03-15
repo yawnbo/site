@@ -32,7 +32,7 @@ sidebar: []
 </style>
 <h2>Validation</h2>
 <p>
-    liquid likes to close everything with a /> so that makes up ~15 errors and I have no way of fixing this with a liquid rewrite.
+    liquid likes to close everything with a /> so that makes up ~15 errors and I have no way of fixing this without a liquid rewrite.
 </p>
 
 <div class="container">
