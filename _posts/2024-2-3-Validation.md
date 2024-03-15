@@ -48,7 +48,7 @@ sidebar: []
         <h3>About me validation</h3>
 
         <p>
-            Warning errors will not be fixed due to an article class being inside of them that is suited better for sections and loaded through a 3rd party.
+            Warning errors will not be fixed due to an article class being inside of them that is suited better for sections and loaded through a 3rd party struct.
         </p>
 
         <img src="/site/assets/images/validation/about.png" alt="about me html" height="400">
