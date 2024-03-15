@@ -32,11 +32,8 @@ sidebar: []
 </style>
 <h2>Validation</h2>
 <p>
-    liquid likes to close everything with a /> so that makes up ~15 errors
-
-<h4>
-    Note I have no way to change how liquid handles html so "info" errors will be shown on all pages that consitent of "/>"
-</h4>
+    liquid likes to close everything with a /> so that makes up ~15 errors and I have no way of fixing this with a liquid rewrite.
+</p>
 
 <div class="container">
     <div class="column">
