@@ -18,7 +18,7 @@ sidebar: []
 ---
 [Artifact 1:](https://yawnbo.github.io/me/a1/index.html){:target="_blank"}  
 Creation of a resume using basic HTMl and no CSS  
-<img src="/assets/images/artifacts/spongebob.jpg" width="200" alt="Spongebob">
+<img src="assets/images/artifacts/spongebob.jpg" width="200" alt="Spongebob">
 
 [Artifact 2:](https://yawnbo.github.io/me/A2/index.html){:target="_blank"}  
 Chessboard using basic HTML/CSS
@@ -26,11 +26,11 @@ Chessboard using basic HTML/CSS
 
 [Artifact 3:](https://yawnbo.github.io/me/A3/index.html){:target="_blank"}  
 Printing a rhombus based on paramaters given by user using javascript
-<img src="/assets/images/artifacts/rhombus.png" width="200" alt="rhombus">
+<img src="assets/images/artifacts/rhombus.png" width="200" alt="rhombus">
 
 [Artifact 4:](https://yawnbo.github.io/me/A4/index.html){:target="_blank"}  
 Form validation made using JS
-<img src="/assets/images/artifacts/formSubmission.png" width="200" alt="form">
+<img src="assets/images/artifacts/formSubmission.png" width="200" alt="form">
 
 [Artifact 5:](https://yawnbo.github.io/me/A5/index.html){:target="_blank"}  
 Chessboard using basic HTML/CSS
