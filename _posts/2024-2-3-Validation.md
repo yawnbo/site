@@ -32,10 +32,10 @@ sidebar: []
 </style>
 <h2>Validation</h2>
 <p>
-    This website is really weird when dealing with validation, alot of the errors output are just info errors that are caused by how liquid and ruby handle the provided html, (liquid likes to close everything with a /> so that makes up ~15 errors)
+    liquid likes to close everything with a /> so that makes up ~15 errors
 
 <h4>
-  Note I have no way to fix how liquid handles html so "info" errors will be shown on all pages.
+    Note I have no way to change how liquid handles html so "info" errors will be shown on all pages that consitent of "/>"
 </h4>
 
 <div class="container">
@@ -48,7 +48,7 @@ sidebar: []
         <h3>About me validation</h3>
 
         <p>
-        All ones past this include errors that say they require headings, even though if you look into the code, they all clearly have headings. Could maybe be due to html validator running through liquid before html loading? Im not sure
+            Warning errors will not be fixed due to an article class being inside of them that is suited better for sections and loaded through a 3rd party.
         </p>
 
         <img src="/site/assets/images/validation/about.png" alt="about me html" height="400">
@@ -72,6 +72,10 @@ sidebar: []
         <h3>Modules</h3>
 
         <img src="/site/assets/images/validation/modules.png" alt="modules html" height="400">
+
+        <h3>Animation and Music</h3>
+
+        <img src="/site/assets/images/validation/animation.png" alt="animation html" height="400">
     </div>
     <div class="column">
         <h2>CSS</h2>
