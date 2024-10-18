@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Creative Page - snowboarding
+title: Welcome!
 subtitle:
 author: yawnbo
-categories: midterm
+categories:
 banner:
   image: "/assets/images/snowboarding.jpeg"
   opacity: 0.618
@@ -16,4 +16,7 @@ tags:
 top: 1
 sidebar: []
 ---
-Placeholder for when site is updated.
+# What this is for.  
+---
+This website is litterally just for when I decide I want to start making writeups of my projects (I won't)  
+so for now it's just two cool winter photos and a cat somewhere that was needed for a final project :)
