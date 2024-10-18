@@ -24,4 +24,28 @@ so for now it's just two cool winter photos and a cat somewhere that was needed 
   
 dark mode will be the default after I do a SINGLE writeup!!!!  
 please  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
