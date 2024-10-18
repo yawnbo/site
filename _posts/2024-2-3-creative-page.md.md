@@ -48,5 +48,5 @@ please
   
   
   
-<img src="assets/videos/cat.gif" alt="Your GIF" width="300" height="200" style="display: flex; align-items: center;">
+<img src="/assets/videos/cat.gif" alt="Your GIF" width="300" height="200" style="display: flex; align-items: center;">
 
