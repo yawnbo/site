@@ -19,4 +19,9 @@ sidebar: []
 # What this is for.  
 ---
 This website is litterally just for when I decide I want to start making writeups of my projects (I won't)  
-so for now it's just two cool winter photos and a cat somewhere that was needed for a final project :)
+so for now it's just two cool winter photos and a cat somewhere that was needed for a final project :)  
+  
+  
+dark mode will be the default after I do a SINGLE writeup!!!!  
+please  
+
